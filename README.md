@@ -14,11 +14,11 @@ My focus is turning ambiguous business problems into reliable technical systems 
 
 ## What I work on
 
-- Designing AI-assisted workflows and internal developer tools
-- Building content platforms, dashboards, and operational interfaces
-- Integrating APIs, webhooks, databases, and third-party services
-- Automating repetitive work with observable, maintainable pipelines
-- Translating product and creative direction into shipped software
+- Building and launching AI-assisted client websites from design through deployment
+- Developing Spotlight’s internal CMS, dashboards, and website management tools
+- Connecting forms, analytics, SEO tools, databases, and third-party services
+- Managing hosting, domains, security, and website performance
+- Researching AI tools and helping the team apply them to everyday work
 
 ## Technical stack
 
