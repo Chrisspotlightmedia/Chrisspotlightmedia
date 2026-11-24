@@ -1,46 +1,66 @@
-# 👋 Hey, I'm Christopher
+<p align="center">
+  <img src="./header.svg" alt="Christopher — Spotlight Media profile header" />
+</p>
 
-### AI Systems & Automation Lead at [Spotlight Media](https://github.com/Spotlight-Media-Fargo)
+<h1 align="center">👋 Hey, I'm Christopher</h1>
 
-I build practical digital systems that help teams move faster — from AI-assisted workflows and internal tools to polished websites and content platforms.
+<p align="center">
+  <strong>AI Systems & Automation Lead at <a href="https://github.com/Spotlight-Media-Fargo">Spotlight Media</a></strong>
+</p>
 
-At Spotlight, I work across strategy, automation, product design, and implementation to turn good ideas into useful, maintainable systems.
+I build production-minded systems at the intersection of software engineering, AI, and digital operations — from typed APIs and content platforms to automation workflows and polished web experiences.
 
-## 🔦 What I'm building
+My focus is turning ambiguous business problems into reliable technical systems that are easy to use, extend, and maintain.
 
-| Focus | What it means |
-| --- | --- |
-| 🤖 **AI systems** | Practical AI workflows, assistants, and internal tools |
-| ⚙️ **Automation** | Connecting people, data, and processes so work flows better |
-| 🖥️ **Digital experiences** | Websites, dashboards, and CMS platforms that feel clear and intentional |
-| 📊 **Operational visibility** | Making the important numbers easier to understand and act on |
+## ⚡ What I work on
 
-## 🚀 Spotlight projects
+- Designing AI-assisted workflows and internal developer tools
+- Building content platforms, dashboards, and operational interfaces
+- Integrating APIs, webhooks, databases, and third-party services
+- Automating repetitive work with observable, maintainable pipelines
+- Translating product and creative direction into shipped software
 
-- **[Spotlight CMS](https://github.com/Chrisspotlightmedia/Spotlight-CMS)** — the content and operations platform behind our digital work
-- **[Token Spend Dashboard](https://github.com/Chrisspotlightmedia/TokenSpendDashboard)** — visibility into AI usage and cost
-- **[Spotlight CMS v2](https://github.com/Chrisspotlightmedia/Verison-2-spotlight-cms)** — a newer generation of the platform
-- **[Manus Design Taste](https://github.com/Chrisspotlightmedia/manus-design-taste)** — exploring better patterns for AI-generated interfaces
+## 🧰 Technical stack
 
-## 🧰 My toolbox
+### Frontend
 
-```
-AI systems       Automation       Web platforms
-Dashboards       CMS architecture  Product design
-API integrations Modern workflows Digital strategy
-```
+![Astro](https://img.shields.io/badge/Astro-0B1220?style=flat-square&logo=astro&logoColor=F59E0B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1220?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+### Backend & data
+
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0B1220?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0B1220?style=flat-square&logo=fastapi&logoColor=009688)
+
+### Delivery & automation
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Webhooks](https://img.shields.io/badge/Webhooks-0B1220?style=flat-square&logo=webhooks&logoColor=F59E0B)
+
+## 🔭 Current direction
+
+Exploring better ways to combine AI, automation, and thoughtful interface design — with an emphasis on clear architecture, useful abstractions, and software that makes the next step obvious.
 
 ## ✨ A little more
 
 - 🧭 Building systems that are useful, not just impressive
-- 🎯 Interested in the space between creative direction and technical execution
-- 🌱 Always experimenting with better ways to make work simpler
-- 📍 Based in Fargo, North Dakota
+- 🎯 Comfortable moving between product thinking and implementation
+- 🌱 Always experimenting with better developer and operational workflows
+- 📍 Based in Bismarck, North Dakota
 
 ## 📫 Find me
 
-[![Spotlight Media](https://img.shields.io/badge/Spotlight%20Media-111827?style=for-the-badge&logo=googlechrome&logoColor=F59E0B)](https://spotlightmediafargo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Chrisspotlightmedia-111827?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/Chrisspotlightmedia)
+[![Spotlight Media](https://img.shields.io/badge/Spotlight%20Media-0B1220?style=for-the-badge&logo=googlechrome&logoColor=F59E0B)](https://spotlightmediafargo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Chrisspotlightmedia-0B1220?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/Chrisspotlightmedia)
 
 ---
 
