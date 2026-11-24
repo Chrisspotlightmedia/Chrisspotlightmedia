@@ -46,17 +46,6 @@ My focus is turning ambiguous business problems into reliable technical systems 
 ![Vercel](https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=FFFFFF)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0B1220?style=flat-square&logo=webhooks&logoColor=F59E0B)
 
-## 🔭 Current direction
-
-Exploring better ways to combine AI, automation, and thoughtful interface design — with an emphasis on clear architecture, useful abstractions, and software that makes the next step obvious.
-
-## ✨ A little more
-
-- 🧭 Building systems that are useful, not just impressive
-- 🎯 Comfortable moving between product thinking and implementation
-- 🌱 Always experimenting with better developer and operational workflows
-- 📍 Based in Bismarck, North Dakota
-
 ## 📫 Find me
 
 [![Spotlight Media](https://img.shields.io/badge/Spotlight%20Media-0B1220?style=for-the-badge&logo=googlechrome&logoColor=F59E0B)](https://spotlightmediafargo.com)
