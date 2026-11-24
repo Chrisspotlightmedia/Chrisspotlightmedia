@@ -2,7 +2,7 @@
   <img src="./header.svg" alt="Christopher — Spotlight Media profile header" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Christopher</h1>
+<h1 align="center">Hey, I'm Christopher</h1>
 
 <p align="center">
   <strong>AI Systems & Automation Lead at <a href="https://github.com/Spotlight-Media-Fargo">Spotlight Media</a></strong>
@@ -12,7 +12,7 @@ I build production-minded systems at the intersection of software engineering, A
 
 My focus is turning ambiguous business problems into reliable technical systems that are easy to use, extend, and maintain.
 
-## ⚡ What I work on
+## What I work on
 
 - Designing AI-assisted workflows and internal developer tools
 - Building content platforms, dashboards, and operational interfaces
@@ -20,7 +20,7 @@ My focus is turning ambiguous business problems into reliable technical systems 
 - Automating repetitive work with observable, maintainable pipelines
 - Translating product and creative direction into shipped software
 
-## 🧰 Technical stack
+## Technical stack
 
 ### Frontend
 
@@ -46,7 +46,7 @@ My focus is turning ambiguous business problems into reliable technical systems 
 ![Vercel](https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=FFFFFF)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0B1220?style=flat-square&logo=webhooks&logoColor=F59E0B)
 
-## 📫 Find me
+## Find me
 
 [![Spotlight Media](https://img.shields.io/badge/Spotlight%20Media-0B1220?style=for-the-badge&logo=googlechrome&logoColor=F59E0B)](https://spotlightmediafargo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Chrisspotlightmedia-0B1220?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/Chrisspotlightmedia)
