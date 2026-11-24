@@ -8,9 +8,9 @@
   <strong>AI Systems & Automation Lead at <a href="https://github.com/Spotlight-Media-Fargo">Spotlight Media</a></strong>
 </p>
 
-I build production-minded systems at the intersection of software engineering, AI, and digital operations — from typed APIs and content platforms to automation workflows and polished web experiences.
+I build AI-assisted websites, internal tools, and automations at Spotlight Media, from client websites and our internal CMS to analytics, SEO integrations, and workflows that save the team time.
 
-My focus is turning ambiguous business problems into reliable technical systems that are easy to use, extend, and maintain.
+My focus is turning client needs and business ideas into reliable, easy-to-use tools and websites, while helping our team put AI to work in practical ways.
 
 ## What I work on
 
